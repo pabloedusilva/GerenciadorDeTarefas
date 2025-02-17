@@ -24,9 +24,11 @@ O projeto segue a estrutura da Programação Orientada a Objetos (POO) e está o
 
 # 💻 Requisitos
 
-* 🔹 .NET SDK instalado.
+- [x] **.NET Framework ou .NET Core/5/6 (dependendo de sua versão do C#).**
+[Download .NET SDK](https://dotnet.microsoft.com/download)
 
-* 🔹 Editor de código (Visual Studio, Visual Studio Code ou outro IDE compatível com C#).
+- [x] **Visual Studio Code.**
+[Download Visual Studio Code](https://code.visualstudio.com/download)
 
 # 🚀 Como Executar o Projeto
 
